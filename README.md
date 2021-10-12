@@ -29,3 +29,7 @@ arguments in the following order:
 
 NOTE: The 'input' folder included here contains example images, but you should
 replace these with your own images to track your play.
+
+TODO:
+- add threshold for template match quality to not mis-identify features that are simply not present
+- switch from template matching to AI, e.g. convolutional neural network
