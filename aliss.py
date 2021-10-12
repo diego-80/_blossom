@@ -5,7 +5,6 @@ import numpy as np
 import statistics
 import math
 
-#test
 # jack diameter: 53px = 1.5in
 # play ball diameter: 124px = 3.5in
 # player iterables follow convention green=0, red=1
